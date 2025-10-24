@@ -1,0 +1,13 @@
+# Core Web Framework
+fastapi==0.115.2
+uvicorn==0.30.6
+
+# OpenAI SDK (official new package)
+openai==1.51.0
+
+# Environment Variable Management
+python-dotenv==1.0.1
+
+# Optional Utilities
+pydantic==2.9.2
+requests==2.32.3
